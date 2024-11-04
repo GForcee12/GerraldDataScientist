@@ -1,11 +1,14 @@
 <h1>Hi there! I'm Gerraldo</h1>
 
+👨🏻‍🎓 Currently studying Business Mathematics (B.Sc.) @HTW Berlin
+
 <h2>🧑🏻‍💻 Data Science Projects:</h2>
 
 <h2>📄 Certifications</h2>
 
 - Google Data Analytics
 - RevoU Full Stack Data Analytics
+
 
 <h2>🤳🏼 Connect with me</h2>
 
@@ -14,3 +17,5 @@
 
 [linkedin]: https://www.linkedin.com/in/gerraldo-firmini-susilo
 [instagram]: https://www.instagram.com/gerraldofirmini/
+
+Check out my bookshelf: [Goodreads] (https://www.goodreads.com/user/show/172201907-gerraldo-firmini)
