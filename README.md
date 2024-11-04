@@ -7,7 +7,7 @@
 <h2>📄 Certifications</h2>
 
 - [<b>Google Data Analytics</b>](https://coursera.org/share/feb623b0a1360d3e9efde20a779a5a7a)
-- RevoU Full Stack Data Analytics
+- [<b>RevoU Full Stack Data Analytics</b>](https://certificates.revou.co/gerraldo-firmini-aduayusa-susilo-certificate-achievements-facfsda23.pdf)
 - [<b>Excel Skills for Business</b>](https://coursera.org/share/bfb4a54030ed75590d091cb47d49f549)
 
 
@@ -19,4 +19,3 @@
 [linkedin]: https://www.linkedin.com/in/gerraldo-firmini-susilo
 [instagram]: https://www.instagram.com/gerraldofirmini/
 
-Check out my bookshelf: [Goodreads](https://www.goodreads.com/user/show/172201907-gerraldo-firmini)
