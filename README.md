@@ -2,14 +2,13 @@
 
 👨🏻‍🎓 Currently studying <b>Business Mathematics (B.Sc.) @HTW Berlin</b>
 
-Check out my bookshelf: [Goodreads](https://www.goodreads.com/user/show/172201907-gerraldo-firmini)
-
 <h2>🧑🏻‍💻 Data Science Projects:</h2>
 
 <h2>📄 Certifications</h2>
 
-- Google Data Analytics
+- [<b>Google Data Analytics</b>](https://coursera.org/share/feb623b0a1360d3e9efde20a779a5a7a)
 - RevoU Full Stack Data Analytics
+- [<b>Excel Skills for Business</b>](https://coursera.org/share/bfb4a54030ed75590d091cb47d49f549)
 
 
 <h2>🤳🏼 Connect with me</h2>
@@ -20,3 +19,4 @@ Check out my bookshelf: [Goodreads](https://www.goodreads.com/user/show/17220190
 [linkedin]: https://www.linkedin.com/in/gerraldo-firmini-susilo
 [instagram]: https://www.instagram.com/gerraldofirmini/
 
+Check out my bookshelf: [Goodreads](https://www.goodreads.com/user/show/172201907-gerraldo-firmini)
