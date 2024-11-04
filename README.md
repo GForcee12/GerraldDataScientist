@@ -1,6 +1,8 @@
 <h1>Hi there! I'm Gerraldo</h1>
 
-👨🏻‍🎓 Currently studying Business Mathematics (B.Sc.) @HTW Berlin
+👨🏻‍🎓 Currently studying <b>Business Mathematics (B.Sc.) @HTW Berlin</b>
+
+Check out my bookshelf: [Goodreads](https://www.goodreads.com/user/show/172201907-gerraldo-firmini)
 
 <h2>🧑🏻‍💻 Data Science Projects:</h2>
 
@@ -18,4 +20,3 @@
 [linkedin]: https://www.linkedin.com/in/gerraldo-firmini-susilo
 [instagram]: https://www.instagram.com/gerraldofirmini/
 
-Check out my bookshelf: [Goodreads] (https://www.goodreads.com/user/show/172201907-gerraldo-firmini)
